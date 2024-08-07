@@ -1,0 +1,61 @@
+name: fitmar
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  shared_preferences: ^2.0.6
+  firebase_core: ^2.15.0
+  firebase_auth: ^4.7.2
+  fluttertoast: ^8.2.2
+  google_sign_in: ^6.1.4
+  cloud_firestore: ^4.14.0
+  crystal_navigation_bar: ^1.0.0
+  molten_navigationbar_flutter: ^1.0.0
+  system_theme: ^2.3.1
+  provider: ^5.0.0
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  cupertino_icons: ^1.0.2
+  numberpicker: ^2.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/indir-removebg-preview.png
+    - assets/google2-removebg-preview.png
+    - assets/soloturk.jpeg
+    - assets/girl_practising.png
+    - assets/Barbel-Biceps_Curl.png
+    - assets/Dumbbell_Hammer_Curl.png
+    - assets/network-activity-lines.png
+    - assets/kit-fitness-tracker.png
+    - assets/urban-woman-working-out-with-a-fitness-trainer.png
+    - assets/Alternate-Biceps-curl.png
+    - assets/Incline_Dumbbell_Press.png
+    - assets/bowl_with_chia_and_fruits.png
+    - assets/Poached_salmon.png

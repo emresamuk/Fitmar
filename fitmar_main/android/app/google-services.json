@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "403059314947",
+    "project_id": "fitmar-cb74f",
+    "storage_bucket": "fitmar-cb74f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403059314947:android:aaec2a3e6a33ef87691936",
+        "android_client_info": {
+          "package_name": "com.example.fitmar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403059314947-octkk4hkg3q3o3b67lqertgnubiof9up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWwn5Chpryg7wtLl0DodsWGvKi4FSafuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403059314947-octkk4hkg3q3o3b67lqertgnubiof9up.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403059314947-kvaeoujl79hjovbh5bcj4oimu0d9libn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitmar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
